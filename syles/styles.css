@@ -24,9 +24,15 @@ body{
     padding: 16px;
 }
 
-.container.cranberry{
+.container.cranberry,
+.potato{
     text-align: justify;
     height: 1180px;
+}
+
+.container.brussels{
+    text-align: justify;
+    height: 1330px;
 }
 
 p,
